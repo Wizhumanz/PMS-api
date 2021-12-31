@@ -1,0 +1,7 @@
+# Auto-generated files
+.vscode
+# Directories
+node_modules/
+dummy_github/
+build/
+.env
